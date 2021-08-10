@@ -73,8 +73,11 @@
 <img alt="kotlin" width="26px" src="https://img.icons8.com/color/96/000000/kotlin.png">
 </code>](https://kotlinlang.org/)
 [<code>
-<img alt="graphQL" width="26px" src="https://img.icons8.com/color/96/000000/graphql.png">
-</code>](https://graphql.org/)
+<img alt="python" width="26px" src="https://img.icons8.com/color/96/000000/python.svg">
+</code>](https://www.python.org/)
+[<code>
+<img alt="C" width="26px" src="https://img.icons8.com/color/96/000000/c">
+</code>](https://en.wikipedia.org/wiki/C_(programming_language))
 
 
 <br />
