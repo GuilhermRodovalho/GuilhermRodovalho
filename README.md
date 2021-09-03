@@ -1,7 +1,7 @@
 # Hi there, I'm Guilherme 👋
 
 
-## I'm a informational systems student and developer!!
+## I'm a information systems student and developer!!
 
 
 - 🌱 I’m currently learning everything 🤣
