@@ -5,17 +5,17 @@
 
 
 - 🌱 I’m currently learning back-end
-- 💻️ Focused on algorithms and low level code
+- 💻️ Focused on algorithms and web dev
 - 👯 I’m looking to improve my problem solving skills
 - ⚡ Fun fact: I really love learning new things
 
 ---
 
-<!-- <div>
+<div>
   <a href="https://github.com/GuilhermRodovalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermRodovalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermRodovalho&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> -->
+</div>
 
 ### Connect with me:
 
