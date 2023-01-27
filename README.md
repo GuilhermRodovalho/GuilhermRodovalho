@@ -4,10 +4,10 @@
 ## I'm a information systems student and developer!!
 
 
-- 🌱 I’m currently learning back-end
+- 🌱 I’m currently learning back-end anything that comes to mind
 - 💻️ Focused on algorithms and web dev
 - 👯 I’m looking to improve my problem solving skills
-- ⚡ Fun fact: I really love learning new things
+- ⚡ Fun fact: I really love learning new things, and I have a lot of hobbies, ranging from music to jiu-jtsu
 
 ---
 
