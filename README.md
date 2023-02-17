@@ -13,7 +13,6 @@
 
 <div>
   <a href="https://github.com/GuilhermRodovalho">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermRodovalho)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### Connect with me:
