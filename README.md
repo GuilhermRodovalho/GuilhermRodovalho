@@ -11,9 +11,7 @@
 
 ---
 
-<div>
-  <a href="https://github.com/GuilhermRodovalho">
-</div>
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermRodovalho)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
