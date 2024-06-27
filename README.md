@@ -10,10 +10,12 @@
 - ⚡ Fun fact: I really love learning new things, and I have a lot of hobbies, ranging from music to jiu-jtsu
 
 ---
+<!---
 <div>
   <img height=200 width=400 src="https://github-readme-stats.vercel.app/api?username=GuilhermRodovalho&count_private=true&theme=radical" alt="Guilherme's Language stats"/>
   <img height=190 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermRodovalho&hide=scss,handlebars&exclude_repo=Algoritmos-e-estruturas-de-dados&langs_count=6&theme=radical&layout=compact" alt="Guilherme's Language stats"/>
 </div>
+-->
 
 ### Connect with me:
 
